@@ -1,0 +1,27 @@
+Instructions
+
+1. Python Script (Web_scrape.py)
+Dependencies:
+
+Python 3.11.6
+Required Python libraries (install using pip install library_name):
+requests
+beautifulsoup4
+nltk (Natural Language Toolkit)
+Other libraries as needed
+Running the Script:
+
+Ensure Python and required libraries are installed.
+Open a terminal or command prompt.
+Navigate to the directory containing the script.
+Run the script: python Web_scrape.py
+
+2. Output Files
+a) Extracted Text Files
+Text files containing the extracted article text are saved in the Input_scraped folder. Each file is named with the corresponding URL_ID.
+b) Analysis Results
+The results of the text analysis are saved in CSV and Excel formats.
+Excel: Output_Data.xlsx
+
+3. Additional Notes
+Ensure an internet connection for URL data extraction.
